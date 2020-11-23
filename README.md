@@ -1,3 +1,1 @@
-If file is Note Open ------ then open here https://nbviewer.jupyter.org/ 
-Open File on  "https://nbviewer.jupyter.org/"
-accuracy 0.96
+accuracy model is 0.96 if file is not open Try to open that notebook that you want using nbviewer online, you don't need to install it Paste the link to your notebook, (e.g. "https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb") 
